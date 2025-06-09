@@ -1,0 +1,42 @@
+{
+  "item.borderedlights.blacklight": "Kell's Black Light",
+  "item.borderedlights.bluelight": "Kell's Blue Light",
+  "item.borderedlights.brownlight": "Kell's Brown Light",
+  "item.borderedlights.cyanlight": "Kell's Cyan Light",
+  "item.borderedlights.darkgraylight": "Kell's Dark Gray Light",
+  "item.borderedlights.greenlight": "Kell's Green Light",
+  "item.borderedlights.lightbluelight": "Kell's Light Blue Light",
+  "item.borderedlights.lightgraylight": "Kell's Light Gray Light",
+  "item.borderedlights.limelight": "Kell's Lime Light",
+  "item.borderedlights.magentalight": "Kell's Magenta Light",
+  "item.borderedlights.orangelight": "Kell's Orange Light",
+  "item.borderedlights.pinklight": "Kell's Pink Light",
+  "item.borderedlights.purplelight": "Kell's Purple Light",
+  "item.borderedlights.redlight": "Kell's Red Light",
+  "item.borderedlights.whitelight": "Kell's White Light",
+  "item.borderedlights.yellowlight": "Kell's Yellow Light",
+
+  "block.borderedlights.black_deepbrick": "Kell's Black Deepslate Bricks",
+  "block.borderedlights.blue_deepbrick": "Kell's Blue Deepslate Bricks",
+  "block.borderedlights.brown_deepbrick": "Kell's Brown Deepslate Bricks",
+  "block.borderedlights.cyan_deepbrick": "Kell's Cyan Deepslate Bricks",
+  "block.borderedlights.darkgray_deepbrick": "Kell's Dark Gray Deepslate Bricks",
+  "block.borderedlights.green_deepbrick": "Kell's Green Deepslate Bricks",
+  "block.borderedlights.lightblue_deepbrick": "Kell's Light Blue Deepslate Bricks",
+  "block.borderedlights.lightgray_deepbrick": "Kell's Light Gray Deepslate Bricks",
+  "block.borderedlights.lime_deepbrick": "Kell's Lime Deepslate Bricks",
+  "block.borderedlights.magenta_deepbrick": "Kell's Magenta Deepslate Bricks",
+  "block.borderedlights.orange_deepbrick": "Kell's Orange Deepslate Bricks",
+  "block.borderedlights.pink_deepbrick": "Kell's Pink Deepslate Bricks",
+  "block.borderedlights.purple_deepbrick": "Kell's Purple Deepslate Bricks",
+  "block.borderedlights.red_deepbrick": "Kell's Red Deepslate Bricks",
+  "block.borderedlights.white_deepbrick": "Kell's White Deepslate Bricks",
+  "block.borderedlights.yellow_deepbrick": "Kell's Yellow Deepslate Bricks",
+
+  "creativetab.borderedlights.all": "Kell's Bordered Lights",
+
+  "item.borderedlights.lighttool": "Kell's Light Inserter",
+
+  "tooltip.borderedlights.lighttool.shift.tooltip": "Right click on a convertable block with a Kell Color Light to convert the block to a Kell Light",
+  "tooltip.borderedlights.lighttool.tooltip": "Hold <Shift> for more Information"
+}
